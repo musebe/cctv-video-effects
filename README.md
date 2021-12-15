@@ -46,7 +46,7 @@ npm insall cloudinary
 
 ### Video for upload.
 
-I mentioned that we're not going to be selecting a video via a form, so we need a static video that we can use. It doesn't matter which video you use, you can just download a random video from the internet and save it inside `static/videos`. Make sure to take note of the file name. To make it easier later, you can rename it to `video.mp4`. You can also get the full source code on my [github](https://github.com/newtonmunene99/cctv-video-effect-with-cloudinary/blob/master/static/videos/video.mp4) with a sample video already downloaded.
+I mentioned that we're not going to be selecting a video via a form, so we need a static video that we can use. It doesn't matter which video you use, you can just download a random video from the internet and save it inside `static/videos`. Make sure to take note of the file name. To make it easier later, you can rename it to `video.mp4`. You can also get the full source code on my [github](https://github.com/musebe/cctv-video-effects/blob/main/static/videos/video.mp4) with a sample video already downloaded.
 
 ## Getting started.
 
@@ -787,5 +787,16 @@ npm run dev -- --open
 
 > Remember that this is a simple implementation for demonstration purposes. You can make a few optimizations for a production environment. Also, keep in mind that SvelteKit is still early in development. Issues such as native file upload are being sorted out and might be ready with the first stable version.
 
+## Codesandbox 
 
-Thank you for your time. You can find the full source code on my [Github](https://github.com/newtonmunene99/cctv-video-effect-with-cloudinary).
+The final project can be viewed on [Codesandbox](https://codesandbox.io/s/cctv-video-effect-y97im).
+
+<CodeSandbox
+title="cctv-video-effect"
+id="cctv-video-effect-y97im"
+/>
+
+
+Thank you for your time. You can find the full source code on my [Github](https://github.com/musebe/cctv-video-effects).
+
+
